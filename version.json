@@ -1,5 +1,5 @@
 {
     "version": "0.0.3",
-    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.3/FFTool_v0.0.3.zip",
+    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.3/FFTool_Distribution.zip",
     "release_notes": "- Upgrade tool version to v0.0.3\n- Fix GitHub raw raw.githubusercontent.com update checker URL check"
 }
