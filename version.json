@@ -1,5 +1,5 @@
 {
-    "version": "0.0.2",
-    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.2/FFTool_v0.0.2.zip",
-    "release_notes": "- Add support for bulk context menu credentials copying\n- Add non-disruptive update alerts in the status bar with hover tooltips"
+    "version": "0.0.3",
+    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.3/FFTool_v0.0.3.zip",
+    "release_notes": "- Upgrade tool version to v0.0.3\n- Fix GitHub raw raw.githubusercontent.com update checker URL check"
 }
