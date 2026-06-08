@@ -1,5 +1,5 @@
 {
-    "version": "0.0.3",
-    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.3/FFTool_Distribution.zip",
-    "release_notes": "- Upgrade tool version to v0.0.3\n- Fix GitHub raw raw.githubusercontent.com update checker URL check"
+    "version": "0.0.4",
+    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.4/FFTool_Distribution.zip",
+    "release_notes": "- Upgrade tool version to v0.0.4\n- Unify Grid Slot Allocator logic across all workers for overlapping fixes"
 }
