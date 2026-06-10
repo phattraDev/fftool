@@ -1,5 +1,5 @@
 {
-    "version": "0.0.6",
-    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.6/FFTool_Distribution.zip",
-    "release_notes": "- Upgrade tool version to v0.0.6\n- Fix UID column cut-off in select account dialog\n- Set imported Chrome profile status to Unknown"
+    "version": "0.0.7",
+    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.7/FFTool_Distribution.zip",
+    "release_notes": "- Upgrade tool version to v0.0.7\n- Fix duplicate emoji comments issue\n- Fix false positive login failures\n- Make Reaction interactions natively atomic and click-reliable"
 }
