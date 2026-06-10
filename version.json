@@ -1,5 +1,5 @@
 {
-    "version": "0.0.5",
-    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.5/FFTool_Distribution.zip",
-    "release_notes": "- Upgrade tool version to v0.0.5\n- Fix JSON parsing error when restoring queue state"
+    "version": "0.0.6",
+    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.6/FFTool_Distribution.zip",
+    "release_notes": "- Upgrade tool version to v0.0.6\n- Fix UID column cut-off in select account dialog\n- Set imported Chrome profile status to Unknown"
 }
