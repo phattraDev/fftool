@@ -1,5 +1,5 @@
 {
-    "version": "0.0.4",
-    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.4/FFTool_Distribution.zip",
-    "release_notes": "- Upgrade tool version to v0.0.4\n- Unify Grid Slot Allocator logic across all workers for overlapping fixes"
+    "version": "0.0.5",
+    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.5/FFTool_Distribution.zip",
+    "release_notes": "- Upgrade tool version to v0.0.5\n- Fix JSON parsing error when restoring queue state"
 }
