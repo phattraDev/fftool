@@ -1,5 +1,5 @@
 {
-    "version": "0.0.7",
-    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.7/FFTool_Distribution.zip",
-    "release_notes": "- Upgrade tool version to v0.0.7\n- Fix duplicate emoji comments issue\n- Fix false positive login failures\n- Make Reaction interactions natively atomic and click-reliable"
+    "version": "0.0.8",
+    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.8/FFTool_Distribution.zip",
+    "release_notes": "- Upgrade tool version to v0.0.8\n- Prevent duplicate comments via shuffled distribution\n- Add Khmer language support for reactions\n- Enhance React hover logic and fix accidental Share button clicks\n- Fix Selection table UI crash when removing accounts"
 }
