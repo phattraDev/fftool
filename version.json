@@ -1,5 +1,5 @@
 {
-    "version": "0.0.9",
-    "download_url": "https://github.com/phattraDev/fftool/releases/download/v0.0.9/FFTool_Distribution.zip",
-    "release_notes": "- Upgrade tool version to v0.0.9\n- Support multiple target post URLs and comment IDs in Comment Reply\n- Support direct comment ID targets\n- Fix checkpoint auto-close configuration mismatch across worker threads"
+    "version": "1.0.0",
+    "download_url": "https://github.com/phattraDev/fftool/releases/download/v1.0.0/FFTool_Distribution.zip",
+    "release_notes": "- Upgrade tool version to v1.0.0\n- Layout improvements and fixes\n- UI enhancements for Comment Reply tab"
 }
