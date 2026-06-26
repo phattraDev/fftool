@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
-    "download_url": "https://github.com/phattraDev/fftool/releases/download/v1.0.5/FFTool_Distribution.zip",
-    "release_notes": "- Fix Telegram bot connection: clients now connect to central server instead of localhost\n- Fix 'Token not recognized' bug with instant token sync\n- Fix device switching logic"
+    "version": "1.0.6",
+    "download_url": "https://github.com/phattraDev/fftool/releases/download/v1.0.6/FFTool_Distribution.zip",
+    "release_notes": "- Fix schedule completion dialog showing incorrect counts\n- Add Login Settings: Logout Chrome & Does Not Save Login\n- Add Login Settings: Logout and Login to Get New Cookies\n- Add Delay Settings panel to Account Manager\n- Move Login Settings to center panel in Account Manager\n- Update contact Telegram username"
 }
