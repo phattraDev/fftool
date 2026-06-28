@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6",
-    "download_url": "https://github.com/phattraDev/fftool/releases/download/v1.0.6/FFTool_Distribution.zip",
-    "release_notes": "- Fix schedule completion dialog showing incorrect counts\n- Add Login Settings: Logout Chrome & Does Not Save Login\n- Add Login Settings: Logout and Login to Get New Cookies\n- Add Delay Settings panel to Account Manager\n- Move Login Settings to center panel in Account Manager\n- Update contact Telegram username"
+    "version": "1.0.7",
+    "download_url": "https://github.com/phattraDev/fftool/releases/download/v1.0.7/FFTool_Distribution.zip",
+    "release_notes": "- Add license control system with activation dialog on startup\n- Live license re-validation: admin can disable/ban a key and the tool closes within seconds\n- Designed disabled/banned dialogs shown when a license is revoked or reopened\n- New web admin dashboard (Supabase) to create, disable, enable, ban and manage licenses in real time\n- Add license status indicator and Account info to the title bar\n- Add Contact button to license dialogs\n- Replace emoji with FontAwesome icons in license UI"
 }
