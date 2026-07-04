@@ -1,5 +1,6 @@
 {
-    "version": "1.0.8",
-    "download_url": "https://github.com/phattraDev/fftool/releases/download/v1.0.8/FFTool_Distribution.zip",
-    "release_notes": "- Add license control system with activation dialog on startup\n- Live license re-validation: admin can disable/ban a key and the tool closes within seconds\n- Designed disabled/banned dialogs shown when a license is revoked or reopened\n- New web admin dashboard (Supabase) to create, disable, enable, ban and manage licenses in real time\n- Add license status indicator and Account info to the title bar\n- Add Contact button to license dialogs\n- Replace emoji with FontAwesome icons in license UI"
+    "version": "1.0.9",
+    "download_url": "https://github.com/phattraDev/fftool/releases/download/v1.0.9/FFTool_Distribution.zip",
+    "release_notes": "MAJOR UPDATE: 200+ Accounts Crash Fix\n\nCRITICAL FIX: Tool no longer crashes with 200+ accounts\nIntelligent batch processing (20 accounts per batch)\nSafe Chrome cleanup between batches\nMemory controlled at 8GB max per batch\nProcess count limited to 120 max (was 1000+)\nAll seeding settings fully respected\nWarning dialog with time estimates\nDynamic resource management based on RAM\nImproved memory leak prevention (5x faster GC, 10x faster orphan checks)\nNo interference with other features (View Account, Livestream, etc.)\n\nTime Estimates:\n- 200 accounts: ~7-8 hours\n- 400 accounts: ~15 hours\n(Conservative timing for system stability and checkpoint avoidance)\n\nSafety:\n- Only kills tracked Chrome processes\n- Preserves all other features\n- Graceful error handling\n- User can cancel before starting\n\nFiles Modified:\n- schedule_tab.py - Warning dialog\n- login_manager.py - Batch processing\n- memory_leak_prevention.py - Faster cleanup\n- resource_guard.py - Dynamic limits\n\nThis is a CRITICAL stability update. Upgrade immediately if processing 200+ accounts!",
+    "required": false
 }
